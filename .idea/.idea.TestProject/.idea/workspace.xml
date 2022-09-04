@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f301a4a2-9bfb-485f-82c8-5b4ecf5333eb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/PostProcess/PP_OutlineShader_Inst.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/PostProcess/PP_OutlineShader_Inst.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +254,7 @@
       <updated>1661419499352</updated>
       <workItem from="1661419503817" duration="10000" />
       <workItem from="1662221754789" duration="85000" />
-      <workItem from="1662222094934" duration="110000" />
+      <workItem from="1662222094934" duration="626000" />
     </task>
     <servers />
   </component>
