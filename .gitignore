@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Android_ASTC/Uninstall_TestProject-arm64.bat
+Android_ASTC/TestProject-arm64.apk
+Android_ASTC/main.1.com.YourCompany.TestProject.obb
+Android_ASTC/Install_TestProject-arm64.bat
